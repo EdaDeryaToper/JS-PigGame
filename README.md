@@ -1,7 +1,7 @@
 # Creating a dice game with JavaScript
  
  
- ### Flowchart:
+ ### Flowchart about the game:
  ![pig-game-flowchart](https://user-images.githubusercontent.com/94050348/176352695-cac989ab-9bcb-4050-b8d6-f2c0e3d9c9f3.png)
 
  
